@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: akinino/amazon:4
+        image: akinino/amazon:5
         ports:
         - containerPort: 3000
         
